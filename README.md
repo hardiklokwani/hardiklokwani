@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hardik Lokwani</h1>
-<h3 align="center">A Linux and DevOps passionate nerd from Germany</h3>
+<h3 align="center">A Linux a and DevOps passionate nerd from Germany</h3>
 
 - 🔭 I’m currently working on [3-Tier Website Deployment usingDevSecOps](https://github.com/hardiklokwani/wanderlust.git)
 
